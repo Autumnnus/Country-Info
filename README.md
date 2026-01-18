@@ -26,7 +26,7 @@ GeoExplorer is a modern, sleek web application that allows users to discover det
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Country-Info.git
+   git clone https://github.com/Autumnnus/Country-Info.git
    ```
 2. **Navigate to the project directory**:
    ```bash
